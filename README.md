@@ -14,7 +14,7 @@ To run, first install `requirements.txt`, then run all `llama_cqa.ipynb` noteboo
 The model can be found as `VityaVitalich/LLaMA3-8b-CQA` on HuggingFace.
 It is an RLHF fine-tuned LLama-3 with 8B parameters.
 
-According to our evaluation criteria, the model can produce comparative 
+According to our evaluation criteria, the model can produce comparative texts with a score of 14-15/19.
 
 ## Links to related repositories
 
